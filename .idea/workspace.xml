@@ -43,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607477961124</updated>
       <workItem from="1607477962189" duration="5784000" />
+      <workItem from="1608167526022" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="h5-2020.12.9-1.0">
       <created>1607481541233</created>
@@ -81,6 +82,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="h5-2020.12.9-1.0" />
