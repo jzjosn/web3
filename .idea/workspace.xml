@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8631c35-c6fb-4b90-a789-a0fad072ca57" name="Default Changelist" comment="h5-2020.12.17-3.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/index - 副本1.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/index - 副本1.0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
       <updated>1607477961124</updated>
       <workItem from="1607477962189" duration="5784000" />
       <workItem from="1608167526022" duration="779000" />
-      <workItem from="1608170882457" duration="2717000" />
+      <workItem from="1608170882457" duration="6423000" />
     </task>
     <task id="LOCAL-00001" summary="h5-2020.12.9-1.0">
       <created>1607481541233</created>
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608172051932</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="h5-2020.12.17-1.1">
+      <created>1608173724317</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608173724317</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +134,9 @@
     <MESSAGE value="h5-2020.12.9-3.0" />
     <MESSAGE value="h5-2020.12.17-3.1" />
     <MESSAGE value="h5-2020.12.17-3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="h5-2020.12.17-3.2" />
+    <MESSAGE value="h5-2020.12.17-1.0" />
+    <MESSAGE value="h5-2020.12.17-1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="h5-2020.12.17-1.1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
