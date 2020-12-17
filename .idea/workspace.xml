@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8631c35-c6fb-4b90-a789-a0fad072ca57" name="Default Changelist" comment="h5-2020.12.17-3.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.html" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jzlianGit2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +47,8 @@
       <workItem from="1608167526022" duration="779000" />
       <workItem from="1608170882457" duration="6703000" />
       <workItem from="1608187939771" duration="11000" />
+      <workItem from="1608195259074" duration="7000" />
+      <workItem from="1608195272351" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="h5-2020.12.9-1.0">
       <created>1607481541233</created>
